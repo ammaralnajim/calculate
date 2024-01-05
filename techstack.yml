@@ -2,7 +2,7 @@ repo_name: ammaralnajim/calculate
 report_id: 60e25998a5a8f91feb4d2dda74bd41ff
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:34:26+00:00'
+timestamp: '2024-01-05T08:19:23+00:00'
 requested_by: ammaralnajim
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/ammaralnajim/calculate
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -39,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/calculate
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -49,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/ammaralnajim/calculate/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: ammaralnajim
   last_updated_on: 2021-04-30 11:22:16.000000000 Z
@@ -73,6 +76,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ammaralnajim/calculate/blob/master/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: ammaralnajim
   last_updated_on: 2021-04-30 11:22:16.000000000 Z
